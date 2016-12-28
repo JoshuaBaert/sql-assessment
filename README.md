@@ -51,3 +51,9 @@ GOTCHA: It's important to know that express converts values passed into and acce
 * Create an endpoint at `PUT '/api/vehicle/:vehicleId/user/:userId'` that changes the ownership of the provided vehicle to be the new user.
 * Create an endpoint at `DELETE '/api/user/:userId/vehicle/:vehicleId'` that removes ownership of that vehicle from the provided user, but does not delete the vehicle
 * Create an endpoint at `DELETE '/api/vehicle/:vehicleId'` that deletes the specified vehicle
+
+
+
+FINISHED ON 
+
+[Alt text](https://cloud.githubusercontent.com/assets/22752236/21531287/f6288430-cd03-11e6-8a60-c6a537b69ded.png)
