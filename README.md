@@ -56,4 +56,4 @@ GOTCHA: It's important to know that express converts values passed into and acce
 
 FINISHED ON 
 
-[Alt text](https://cloud.githubusercontent.com/assets/22752236/21531287/f6288430-cd03-11e6-8a60-c6a537b69ded.png)
+![image](https://cloud.githubusercontent.com/assets/22752236/21531287/f6288430-cd03-11e6-8a60-c6a537b69ded.png)
